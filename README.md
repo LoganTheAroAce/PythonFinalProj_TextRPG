@@ -1,3 +1,8 @@
+[NOTICE!]
+
+The only reason why I uploaded this was so that my computer science teacher could look at my code and try the program out. If you aren't my computer science teacher and somehow found your way here, Feel free to try the program out anyways!
+
+
 HOW TO USE
 
 (Download)
